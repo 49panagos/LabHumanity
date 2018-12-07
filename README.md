@@ -1,2 +1,2 @@
 # LabHumanity
-Modelling Workers and Students
+Modelling Workers and Students, created in Eclipse IDE
